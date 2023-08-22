@@ -1,17 +1,15 @@
-# 2023KEB_DreamComesTrue
-
-
+## 2023KEB_DreamComesTrue
 # Unhabited;
 https://github.com/kimjh7204/SW-Bootcamp-TEAM3
 ![real](https://user-images.githubusercontent.com/34911552/102442304-772a4480-4067-11eb-839f-2d986933cde6.png)
 
 
 
-## 🖥️ 프로젝트 소개
+### 🖥️ 프로젝트 소개
 * 유니티를 이용하여 조합형 탈출 게임
 * 조난된 무인도에서 주변에 놓인 일상적인 물건들을 조합하여 생존해나가고 섬을 탈출해야하는 게임.
 
-## 🧑‍🤝‍🧑 맴버구성
+### 🧑‍🤝‍🧑 멤버구성
 ```
 팀장 : 권유빈 / UI, 플레이어 카메라
 팀원1 : 최지은 / 인벤토리, 엔딩
